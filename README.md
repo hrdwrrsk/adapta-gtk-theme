@@ -360,6 +360,8 @@ Work in Progress
 
 TODO
 ----
+- Use color from (reverted) MASSIVE redesign update (3.95), but keep the design.
+- Make check/radio assets have fixed width/height (no blurry check/radio again)
 
 Public License
 --------------
