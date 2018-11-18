@@ -1,16 +1,7 @@
 <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/logo_thumb.png" alt="Logo" align="left" /> Adapta-gtk-theme
 ======
 
-An adaptive Gtk+ theme based on Material Design Guidelines.
-
-
-04 Oct 2018
------------
- * Re-lock issues until we hunt a new maintainer (owner) of this project.
-
-02 Oct 2018
------------
- * Reverted all changes to 3.94.0.x.
+An adaptive Gtk+ theme based on Material Design Guidelines. **this fork are currently for experimentation**
 
 Before using Adapta
 -------------------
